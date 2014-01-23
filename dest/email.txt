@@ -1,0 +1,214 @@
+Le Conseiller Financier -
+Promo[[IF(Config.isShowMessage == 0){]]Si ce courriel ne
+s'affiche pas correctement, cliquez ici (
+[[=Message.WebVersion(true);]] ).
+
+[[}]]Pour ├®viter que ce courriel
+soit consid├®r├® comme ind├®sirable, ajoutez
+kcloutier@gcloutier.com ( kcloutier@gcloutier.com ) ├á votre
+liste de contacts.
+
+Groupe Cloutier ( http://www.groupecloutier.com/ )
+
+Le Conseiller ( http://www.groupecloutier.com/ )
+
+******************************************************
+Vous cherchez un moyen efficace de d├®velopper
+vos affaires? Vous voulez fid├®liser votre client├¿le?
+******************************************************
+
+------------------------------------------------------------
+Adh├®rez au programme d'infolettre
+cl├® en main de Groupe Cloutier ( kcloutier@gcloutier.com )
+------------------------------------------------------------
+
+L'infolettre Le
+Conseiller Financier, c'est :
+
+4 infolettres par ann├®e
+------------------------
+
+Un taux d'ouverture moyen
+de 47 %
+-------------------------
+
+Un service d'envoi cl├® en main
+-------------------------------
+
+Des articles exclusifs sur des sujets
+vari├®s (investissement, protection
+du patrimoine, finances personnelles,
+fiscalit├®, etc.)
+-------------------------------------
+
+Une zone personnalis├®e avec votre
+photo, vos coordonn├®es et votre logo
+-------------------------------------
+
+Des boutons de partage social
+pour Facebook, Twitter et LinkedIn
+----------------------------------
+
+Des statistiques d├®taill├®es
+sur chaque envoi permettant
+de mesurer vos r├®sultats
+-----------------------------
+
+Cet outil vous
+est offert pour seulement 600 $ par ann├®e!
+
+┬½
+L'infolettre Le Conseiller Financier m'a permis d'obtenir des
+ventes gr├óce aux contenus vari├®s que l'on y retrouve. J'obtiens
+dor├®navant le courriel de tous mes nouveaux clients et prospects
+sans exception. Pour moi, l'infolettre repr├®sente un bon exemple
+d'outil marketing efficace et rentable ├á utiliser absolument. ┬╗
+
+┬½ Depuis la
+mise en place de l'infolettre, je re├ºois 3 ├á 5 courriels de
+questions de la part de mes clients. Cela apporte au moins 1
+vente d├®coulant des sujets trait├®s dans l'infolettre. Celle-ci
+me permet d'avoir un contact privil├®gi├® avec mes clients 4 fois
+par ann├®e, et ce, sans avoir besoin de ne rien faire. Gr├óce aux
+statistiques sur chaque envoi, je peux voir que plusieurs
+personnes consultent les articles et conclure que mon
+investissement est rentable. Je recommande Le Conseiller
+Financier ├á tout le monde! ┬╗
+
+Steeve Poulin, AVC
+------------------
+
+Planificateur financier
+
+ActiPrima Assurances
+
+et
+Services Financiers inc
+
+├ëric Pich├®
+------------
+
+Conseiller en assurances et
+
+rentes collectives de personnes
+
+Groupe Finaction
+
+-----------------------------------------------------------------
+Communiquez avec nous et exploitez
+le plein potentiel de votre r├®seau d├¿s maintenant! ( http://www.groupecloutier.com )
+-----------------------------------------------------------------
+
+Karine Cloutier,
+vice-pr├®sidente marketing et d├®veloppement corporatif
+
+514 353-9665, poste 237 | kcloutier@gcloutier.com (
+kcloutier@gcloutier.com ) | www.groupecloutier.com ( http://www.groupecloutier.com )
+
+Si vous ne souhaitez plus recevoir de courriel de notre
+part, cliquez ici.
+
+[[=Message.ReadTag();]]
+
+Le Conseiller Financier - Promo
+
+Groupe Cloutier (
+[[=Message.Optout( )
+
+Le Conseiller ( http://www.groupecloutier.com/ )
+
+******************************************************
+Vous cherchez un moyen efficace de d├®velopper
+vos affaires? Vous voulez fid├®liser votre client├¿le?
+******************************************************
+
+------------------------------------------------------------
+Adh├®rez au programme d'infolettre
+cl├® en main de Groupe Cloutier ( kcloutier@gcloutier.com )
+------------------------------------------------------------
+
+L'infolettre Le
+Conseiller Financier, c'est :
+
+4 infolettres par ann├®e
+------------------------
+
+Un taux d'ouverture moyen
+de 47 %
+-------------------------
+
+Un service d'envoi cl├® en main
+-------------------------------
+
+Des articles exclusifs sur des sujets
+vari├®s (investissement, protection
+du patrimoine, finances personnelles,
+fiscalit├®, etc.)
+-------------------------------------
+
+Une zone personnalis├®e avec votre
+photo, vos coordonn├®es et votre logo
+-------------------------------------
+
+Des boutons de partage social
+pour Facebook, Twitter et LinkedIn
+----------------------------------
+
+Des statistiques d├®taill├®es
+sur chaque envoi permettant
+de mesurer vos r├®sultats
+-----------------------------
+
+Cet outil vous
+est offert pour seulement 600 $ par ann├®e!
+
+┬½
+L'infolettre Le Conseiller Financier m'a permis d'obtenir des
+ventes gr├óce aux contenus vari├®s que l'on y retrouve. J'obtiens
+dor├®navant le courriel de tous mes nouveaux clients et prospects
+sans exception. Pour moi, l'infolettre repr├®sente un bon exemple
+d'outil marketing efficace et rentable ├á utiliser absolument. ┬╗
+
+┬½ Depuis la
+mise en place de l'infolettre, je re├ºois 3 ├á 5 courriels de
+questions de la part de mes clients. Cela apporte au moins 1
+vente d├®coulant des sujets trait├®s dans l'infolettre. Celle-ci
+me permet d'avoir un contact privil├®gi├® avec mes clients 4 fois
+par ann├®e, et ce, sans avoir besoin de ne rien faire. Gr├óce aux
+statistiques sur chaque envoi, je peux voir que plusieurs
+personnes consultent les articles et conclure que mon
+investissement est rentable. Je recommande Le Conseiller
+Financier ├á tout le monde! ┬╗
+
+Steeve Poulin, AVC
+------------------
+
+Planificateur financier
+
+ActiPrima Assurances
+
+et
+Services Financiers inc
+
+├ëric Pich├®
+------------
+
+Conseiller en assurances et
+
+rentes collectives de personnes
+
+Groupe Finaction
+
+-----------------------------------------------------------------
+Communiquez avec nous et exploitez
+le plein potentiel de votre r├®seau d├¿s maintenant! ( http://www.groupecloutier.com )
+-----------------------------------------------------------------
+
+Karine Cloutier,
+vice-pr├®sidente marketing et d├®veloppement corporatif
+
+514 353-9665, poste 237 | kcloutier@gcloutier.com (
+kcloutier@gcloutier.com ) | www.groupecloutier.com ( http://www.groupecloutier.com )
+
+Si vous ne souhaitez plus recevoir de courriel de notre
+part, cliquez ici ( ).
